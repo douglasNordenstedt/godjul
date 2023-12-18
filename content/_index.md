@@ -8,9 +8,9 @@ Hej välkommen till min julhemsida
 
 ## Artiklar
 
-[Fakta om julgranar](http://localhost:1313/julgranar/)
+[Fakta om julgranar](https://godjul123.netlify.app/julgranar/)
 ##
-[Lite om årets julklappar](http://localhost:1313/julklappar/)
+[Lite om årets julklappar](https://godjul123.netlify.app/julklappar/)
 
 ## Lite om mig
 
