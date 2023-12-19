@@ -3,13 +3,14 @@ title: Hem
 ---
 
 # Välkommen till min Julhemsida
-🎄🎄🎄
+🎅🤶🧑‍🎄
 ## Artiklar
 
 [Fakta om julgranar](https://godjul123.netlify.app/julgranar/)
+🎄🎄🎄
 ##
 [Lite om årets julklappar](https://godjul123.netlify.app/julklappar/)
-
+🎁🎁🎁
 ## Lite om mig
 
 Jag heter douglas
