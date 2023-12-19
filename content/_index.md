@@ -1,11 +1,9 @@
 ---
-title: Home
+title: Hem
 ---
 
-# Welcome to My Website!
-
-Hej välkommen till min julhemsida
-
+# Välkommen till min Julhemsida
+🎄🎄🎄
 ## Artiklar
 
 [Fakta om julgranar](https://godjul123.netlify.app/julgranar/)
@@ -16,4 +14,4 @@ Hej välkommen till min julhemsida
 
 Jag heter douglas
 
-![](https://picsum.photos/200/300)
+![](https://cdn.pixabay.com/photo/2016/12/06/03/09/ornaments-1885470_1280.png/200/300)
